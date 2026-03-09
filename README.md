@@ -1,2 +1,4 @@
-# my-first-project
-My first GitHub project for Git practice
+#  
+
+# Це перша гілка !
+
